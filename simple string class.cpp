@@ -1,5 +1,5 @@
 //write a simple string class that overloads assignment operator and checks if the two 
-//strings are same or not 
+//strings are same or not ----
 #include<iostream>
 #include<cstring>
 class mystring 
